@@ -30,7 +30,7 @@ public class Arrays
             }
             System.out.println();
         }
-
+        
 
         /* int num[] = {5, 6, 7, 8};
         num[1] = 9;
