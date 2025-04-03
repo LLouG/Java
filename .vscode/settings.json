@@ -8,7 +8,8 @@
         "dayFive",
         "daySix",
         "daySeven",
-        "dayEight"
+        "dayEight",
+        "dayNine",
     ],
     "java.project.referencedLibraries": [],
     "java.format.settings.url": ".vscode/java-formatter.xml",
