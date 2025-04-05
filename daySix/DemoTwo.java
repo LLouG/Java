@@ -1,4 +1,6 @@
-public class Demo 
+
+
+public class DemoTwo 
 {
     public static void main(String[] args) 
     {

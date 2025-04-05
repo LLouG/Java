@@ -12,6 +12,8 @@
         "dayNine",
         "dayNine/inheritance",
         "dayTen",
+        "dayTen/poly",
+        "dayTen/finalVar"
     ],
     "java.project.referencedLibraries": [],
     "java.format.settings.url": ".vscode/java-formatter.xml",
