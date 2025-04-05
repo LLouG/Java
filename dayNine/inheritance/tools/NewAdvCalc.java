@@ -1,4 +1,4 @@
-package inheritance.tools;
+package tools;
 
 public class NewAdvCalc extends AdvCalc {
     public double power(int n1, int n2)

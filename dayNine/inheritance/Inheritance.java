@@ -1,5 +1,4 @@
-package inheritance;
-import inheritance.tools.NewAdvCalc;
+import tools.NewAdvCalc;
 
 
 public class Inheritance {
